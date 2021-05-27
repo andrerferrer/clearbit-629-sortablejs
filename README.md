@@ -6,7 +6,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/$USER
-git clone git@github.com:andrerferrer/clearbit-629 clearbit
+git clone git@github.com:andrerferrer/clearbit-629-sortablejs clearbit
 cd clearbit
 rm -rf .git
 yarn install
